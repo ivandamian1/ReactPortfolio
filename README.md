@@ -24,7 +24,7 @@ The application is a single-page application (SPA) leveraging **React Router** f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-portfolio.git
+   git clone https://github.com/ivandamian1/ReactPortfolio
    ```
 2. Navigate to the project directory:
    ```bash
@@ -51,7 +51,7 @@ This application is deployed on **Netlify**. Visit the live site at: [Your Netli
 
 
 ## Screenshots
-![Portfolio Screenshot](https://via.placeholder.com/800x400)  
+![Portfolio Screenshot](https://raw.githubusercontent.com/ivandamian1/ReactPortfolio/refs/heads/main/Screen%20Shot%202024-12-21%20at%202.39.16%20PM.png)  
 *Screenshot of the portfolio homepage.*
 
 ## Future Enhancements
@@ -65,9 +65,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 For inquiries, feel free to reach out:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** adroverivan7@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ivan-adrover-3a0b76218/)
+- **GitHub:** [GitHub Profile](https://github.com/ivandamian1)
 
 ---
 

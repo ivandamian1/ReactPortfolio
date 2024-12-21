@@ -18,7 +18,7 @@ const Contact = () => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
 
-    // Clear errors as the user types
+  
     if (value.trim()) {
       setErrors((prevErrors) => ({ ...prevErrors, [name]: '' }));
     }
@@ -31,7 +31,7 @@ const Contact = () => {
     e.preventDefault();
     let formIsValid = true;
 
-    // Validate fields
+
     const newErrors = {};
     if (!formData.name.trim()) {
       newErrors.name = 'Name is required.';
@@ -53,7 +53,7 @@ const Contact = () => {
 
     if (formIsValid) {
       alert('Your message has been submitted!');
-      // Reset form
+
       setFormData({
         name: '',
         email: '',

@@ -21,7 +21,7 @@ const Resume = () => {
         Download my resume to learn more about my experience and projects:
       </p>
       <a
-        href={myResume} // Replace with your actual resume file path
+        href={myResume} 
         target="_blank"
         rel="noopener noreferrer"
         className="resume-download"

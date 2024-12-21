@@ -8,7 +8,7 @@ const AboutMe = () => {
     <section className="about-me">
       <div className="about-me-content">
         <img
-          src= {LinkedInPic} // Replace with your image path
+          src= {LinkedInPic}
           alt="Ivan D. Adrover Rivera"
           className="about-me-image"
         />
